@@ -29,7 +29,6 @@ Every animation is drawn in code in real time (no bitmaps), so the eyes stay smo
   <tr>
     <td align="center"><img src="images/dizzy.gif" width="270"><br><b>Dizzy</b><br><sub>Shake or lift it</sub></td>
     <td align="center"><img src="images/sleeping.gif" width="270"><br><b>Sleeping</b><br><sub>1 minute with no touch or motion</sub></td>
-    <td align="center"><br><b>Always smiling</b><br><sub>The mouth stays on screen in every mood</sub></td>
   </tr>
 </table>
 
