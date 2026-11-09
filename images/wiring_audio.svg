@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="650" viewBox="0 0 960 650" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect width="960" height="650" rx="22" fill="#0d1117"/>
+<text x="40" y="44" fill="#e6edf3" font-size="22" font-weight="700">Audio Update 1 wiring</text>
+<text x="300" y="44" fill="#7d8590" font-size="15">MAX98357A amp + speaker &#183; INMP441 mic</text>
+<text x="40" y="70" fill="#7d8590" font-size="13">OLED, BMI160 and TTP223 stay wired as in the main diagram (D1, D4, D5).</text>
+<polyline points="250,222 830,222" fill="none" stroke="#ff9f43" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="840" y="227" fill="#ff9f43" font-size="12" font-weight="700" text-anchor="start">5V</text>
+<polyline points="250,256 830,256" fill="none" stroke="#9aa4ae" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="840" y="261" fill="#9aa4ae" font-size="12" font-weight="700" text-anchor="start">GND</text>
+<polyline points="250,290 830,290" fill="none" stroke="#ff5c5c" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="840" y="295" fill="#ff5c5c" font-size="12" font-weight="700" text-anchor="start">3V3</text>
+<polyline points="250,324 830,324" fill="none" stroke="#2dd4bf" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="840" y="329" fill="#2dd4bf" font-size="12" font-weight="700" text-anchor="start">DIN (D10)</text>
+<polyline points="250,358 830,358" fill="none" stroke="#f472b6" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="840" y="363" fill="#f472b6" font-size="12" font-weight="700" text-anchor="start">WS / LRC (D9)</text>
+<polyline points="250,392 830,392" fill="none" stroke="#a78bfa" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="840" y="397" fill="#a78bfa" font-size="12" font-weight="700" text-anchor="start">BCLK / SCK (D8)</text>
+<polyline points="250,426 830,426" fill="none" stroke="#3ddc84" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="840" y="431" fill="#3ddc84" font-size="12" font-weight="700" text-anchor="start">SD (D7)</text>
+<polyline points="400,176 400,222" fill="none" stroke="#ff9f43" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="400" cy="222" r="6" fill="#ff9f43" stroke="#0d1117" stroke-width="2"/>
+<polyline points="440,176 440,256" fill="none" stroke="#9aa4ae" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="440" cy="256" r="6" fill="#9aa4ae" stroke="#0d1117" stroke-width="2"/>
+<polyline points="480,176 480,392" fill="none" stroke="#a78bfa" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="480" cy="392" r="6" fill="#a78bfa" stroke="#0d1117" stroke-width="2"/>
+<polyline points="520,176 520,358" fill="none" stroke="#f472b6" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="520" cy="358" r="6" fill="#f472b6" stroke="#0d1117" stroke-width="2"/>
+<polyline points="560,176 560,324" fill="none" stroke="#2dd4bf" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="560" cy="324" r="6" fill="#2dd4bf" stroke="#0d1117" stroke-width="2"/>
+<polyline points="600,476 600,290" fill="none" stroke="#ff5c5c" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="600" cy="290" r="6" fill="#ff5c5c" stroke="#0d1117" stroke-width="2"/>
+<polyline points="640,476 640,256" fill="none" stroke="#9aa4ae" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="640" cy="256" r="6" fill="#9aa4ae" stroke="#0d1117" stroke-width="2"/>
+<polyline points="680,476 680,392" fill="none" stroke="#a78bfa" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="680" cy="392" r="6" fill="#a78bfa" stroke="#0d1117" stroke-width="2"/>
+<polyline points="720,476 720,358" fill="none" stroke="#f472b6" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="720" cy="358" r="6" fill="#f472b6" stroke="#0d1117" stroke-width="2"/>
+<polyline points="760,476 760,426" fill="none" stroke="#3ddc84" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="760" cy="426" r="6" fill="#3ddc84" stroke="#0d1117" stroke-width="2"/>
+<polyline points="800,476 800,256" fill="none" stroke="#9aa4ae" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="800" cy="256" r="6" fill="#9aa4ae" stroke="#0d1117" stroke-width="2"/>
+<rect x="96" y="178" width="168" height="270" rx="14" fill="#1b1f24" stroke="#3a4048" stroke-width="2"/>
+<rect x="150" y="164" width="60" height="30" rx="8" fill="#b9c0c8" stroke="#6e7681"/>
+<text x="180" y="184" fill="#1b1f24" font-size="10" font-weight="700" text-anchor="middle">USB-C</text>
+<rect x="151" y="236" width="58" height="140" rx="6" fill="#c9ced4" stroke="#8b949e"/>
+<text x="180" y="300" fill="#1b1f24" font-size="14" font-weight="800" text-anchor="middle">XIAO</text>
+<text x="180" y="318" fill="#1b1f24" font-size="10" font-weight="700" text-anchor="middle">ESP32</text>
+<text x="180" y="331" fill="#1b1f24" font-size="10" font-weight="700" text-anchor="middle">C6</text>
+<circle cx="110" cy="222" r="5" fill="#d4b06a" stroke="#6b5426" stroke-width="1.5"/>
+<circle cx="250" cy="222" r="5" fill="#d4b06a" stroke="#6b5426" stroke-width="1.5"/>
+<text x="120" y="226" fill="#6e7681" font-size="11" font-weight="600" text-anchor="start">D0</text>
+<text x="240" y="226" fill="#e6edf3" font-size="11" font-weight="600" text-anchor="end">5V</text>
+<circle cx="110" cy="256" r="5" fill="#d4b06a" stroke="#6b5426" stroke-width="1.5"/>
+<circle cx="250" cy="256" r="5" fill="#d4b06a" stroke="#6b5426" stroke-width="1.5"/>
+<text x="120" y="260" fill="#6e7681" font-size="11" font-weight="600" text-anchor="start">D1</text>
+<text x="240" y="260" fill="#e6edf3" font-size="11" font-weight="600" text-anchor="end">GND</text>
+<circle cx="110" cy="290" r="5" fill="#d4b06a" stroke="#6b5426" stroke-width="1.5"/>
+<circle cx="250" cy="290" r="5" fill="#d4b06a" stroke="#6b5426" stroke-width="1.5"/>
+<text x="120" y="294" fill="#6e7681" font-size="11" font-weight="600" text-anchor="start">D2</text>
+<text x="240" y="294" fill="#e6edf3" font-size="11" font-weight="600" text-anchor="end">3V3</text>
+<circle cx="110" cy="324" r="5" fill="#d4b06a" stroke="#6b5426" stroke-width="1.5"/>
+<circle cx="250" cy="324" r="5" fill="#d4b06a" stroke="#6b5426" stroke-width="1.5"/>
+<text x="120" y="328" fill="#6e7681" font-size="11" font-weight="600" text-anchor="start">D3</text>
+<text x="240" y="328" fill="#e6edf3" font-size="11" font-weight="600" text-anchor="end">D10</text>
+<circle cx="110" cy="358" r="5" fill="#d4b06a" stroke="#6b5426" stroke-width="1.5"/>
+<circle cx="250" cy="358" r="5" fill="#d4b06a" stroke="#6b5426" stroke-width="1.5"/>
+<text x="120" y="362" fill="#6e7681" font-size="11" font-weight="600" text-anchor="start">D4</text>
+<text x="240" y="362" fill="#e6edf3" font-size="11" font-weight="600" text-anchor="end">D9</text>
+<circle cx="110" cy="392" r="5" fill="#d4b06a" stroke="#6b5426" stroke-width="1.5"/>
+<circle cx="250" cy="392" r="5" fill="#d4b06a" stroke="#6b5426" stroke-width="1.5"/>
+<text x="120" y="396" fill="#6e7681" font-size="11" font-weight="600" text-anchor="start">D5</text>
+<text x="240" y="396" fill="#e6edf3" font-size="11" font-weight="600" text-anchor="end">D8</text>
+<circle cx="110" cy="426" r="5" fill="#d4b06a" stroke="#6b5426" stroke-width="1.5"/>
+<circle cx="250" cy="426" r="5" fill="#d4b06a" stroke="#6b5426" stroke-width="1.5"/>
+<text x="120" y="430" fill="#6e7681" font-size="11" font-weight="600" text-anchor="start">D6</text>
+<text x="240" y="430" fill="#e6edf3" font-size="11" font-weight="600" text-anchor="end">D7</text>
+<polyline points="588,120 640,120" fill="none" stroke="#ff5c5c" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="588,132 640,132" fill="none" stroke="#30363d" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="380" y="86" width="210" height="104" rx="10" fill="#1f2a1f" stroke="#3fb950" stroke-width="2"/>
+<text x="470" y="116" fill="#e6edf3" font-size="15" font-weight="700" text-anchor="middle">MAX98357A</text>
+<text x="470" y="133" fill="#9be9a8" font-size="11" font-weight="500" text-anchor="middle">I2S amplifier</text>
+<rect x="560" y="108" width="26" height="36" rx="4" fill="#e6dccb" stroke="#b9ad97"/>
+<circle cx="400" cy="176" r="5" fill="#d4b06a" stroke="#6b5426" stroke-width="1.5"/>
+<text x="400" y="164" fill="#c9f2d0" font-size="10" font-weight="600" text-anchor="middle">VIN</text>
+<circle cx="440" cy="176" r="5" fill="#d4b06a" stroke="#6b5426" stroke-width="1.5"/>
+<text x="440" y="164" fill="#c9f2d0" font-size="10" font-weight="600" text-anchor="middle">GND</text>
+<circle cx="480" cy="176" r="5" fill="#d4b06a" stroke="#6b5426" stroke-width="1.5"/>
+<text x="480" y="164" fill="#c9f2d0" font-size="10" font-weight="600" text-anchor="middle">BCLK</text>
+<circle cx="520" cy="176" r="5" fill="#d4b06a" stroke="#6b5426" stroke-width="1.5"/>
+<text x="520" y="164" fill="#c9f2d0" font-size="10" font-weight="600" text-anchor="middle">LRC</text>
+<circle cx="560" cy="176" r="5" fill="#d4b06a" stroke="#6b5426" stroke-width="1.5"/>
+<text x="560" y="164" fill="#c9f2d0" font-size="10" font-weight="600" text-anchor="middle">DIN</text>
+<rect x="640" y="78" width="96" height="96" rx="14" fill="#161b22" stroke="#484f58" stroke-width="2"/>
+<circle cx="688" cy="126" r="34" fill="#21262d" stroke="#6e7681" stroke-width="2"/><circle cx="688" cy="126" r="16" fill="#8b949e"/>
+<text x="688" y="194" fill="#c9d1d9" font-size="12" font-weight="600" text-anchor="middle">Speaker 3 W</text>
+<rect x="580" y="464" width="240" height="96" rx="10" fill="#1d2433" stroke="#58a6ff" stroke-width="2"/>
+<circle cx="716" cy="528" r="15" fill="#0d1117" stroke="#58a6ff" stroke-width="2"/><circle cx="716" cy="528" r="4" fill="#58a6ff"/>
+<text x="690" y="533" fill="#e6edf3" font-size="14" font-weight="700" text-anchor="end">INMP441</text>
+<text x="742" y="533" fill="#a5cdfa" font-size="11" font-weight="500" text-anchor="start">I2S mic</text>
+<circle cx="600" cy="476" r="5" fill="#d4b06a" stroke="#6b5426" stroke-width="1.5"/>
+<text x="600" y="498" fill="#cfe3fb" font-size="10" font-weight="600" text-anchor="middle">VDD</text>
+<circle cx="640" cy="476" r="5" fill="#d4b06a" stroke="#6b5426" stroke-width="1.5"/>
+<text x="640" y="498" fill="#cfe3fb" font-size="10" font-weight="600" text-anchor="middle">GND</text>
+<circle cx="680" cy="476" r="5" fill="#d4b06a" stroke="#6b5426" stroke-width="1.5"/>
+<text x="680" y="498" fill="#cfe3fb" font-size="10" font-weight="600" text-anchor="middle">SCK</text>
+<circle cx="720" cy="476" r="5" fill="#d4b06a" stroke="#6b5426" stroke-width="1.5"/>
+<text x="720" y="498" fill="#cfe3fb" font-size="10" font-weight="600" text-anchor="middle">WS</text>
+<circle cx="760" cy="476" r="5" fill="#d4b06a" stroke="#6b5426" stroke-width="1.5"/>
+<text x="760" y="498" fill="#cfe3fb" font-size="10" font-weight="600" text-anchor="middle">SD</text>
+<circle cx="800" cy="476" r="5" fill="#d4b06a" stroke="#6b5426" stroke-width="1.5"/>
+<text x="800" y="498" fill="#cfe3fb" font-size="10" font-weight="600" text-anchor="middle">L/R</text>
+<rect x="60" y="612" width="22" height="6" rx="3" fill="#ff9f43"/>
+<text x="90" y="619" fill="#c9d1d9" font-size="12" font-weight="500" text-anchor="start">5V</text>
+<rect x="136" y="612" width="22" height="6" rx="3" fill="#ff5c5c"/>
+<text x="166" y="619" fill="#c9d1d9" font-size="12" font-weight="500" text-anchor="start">3V3</text>
+<rect x="220" y="612" width="22" height="6" rx="3" fill="#9aa4ae"/>
+<text x="250" y="619" fill="#c9d1d9" font-size="12" font-weight="500" text-anchor="start">GND</text>
+<rect x="304" y="612" width="22" height="6" rx="3" fill="#a78bfa"/>
+<text x="334" y="619" fill="#c9d1d9" font-size="12" font-weight="500" text-anchor="start">BCLK</text>
+<rect x="396" y="612" width="22" height="6" rx="3" fill="#f472b6"/>
+<text x="426" y="619" fill="#c9d1d9" font-size="12" font-weight="500" text-anchor="start">WS</text>
+<rect x="472" y="612" width="22" height="6" rx="3" fill="#2dd4bf"/>
+<text x="502" y="619" fill="#c9d1d9" font-size="12" font-weight="500" text-anchor="start">DIN</text>
+<rect x="556" y="612" width="22" height="6" rx="3" fill="#3ddc84"/>
+<text x="586" y="619" fill="#c9d1d9" font-size="12" font-weight="500" text-anchor="start">Mic SD</text>
+<text x="920" y="619" fill="#6e7681" font-size="11" font-weight="500" text-anchor="end">dot = connection</text>
+</svg>
